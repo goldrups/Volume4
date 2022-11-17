@@ -1,0 +1,26 @@
+09/26/22 14:47
+
+1 (5 points):
+Score += 5
+
+2 (5 points):
+Score += 5
+
+3 (10 points):
+Score += 10
+
+4 (12 points):
+Score += 12
+
+5 (13 points):
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

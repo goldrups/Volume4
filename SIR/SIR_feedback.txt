@@ -1,0 +1,26 @@
+09/26/22 15:14
+
+Prob 1 (7 points):
+Score += 7
+
+Prob 2 (7 points):
+Score += 7
+
+Prob 3 (7 points):
+Score += 7
+
+Prob 4 (14 points):
+Score += 14
+
+Prob 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

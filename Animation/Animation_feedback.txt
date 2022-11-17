@@ -1,0 +1,57 @@
+09/14/22 14:55
+
+Prob 1 (5 points):
+Didn't push video
+Score += 0
+
+Prob 2 (5 points):
+Score += 5
+
+Prob 3 (15 points):
+Video
+Score += 0
+
+Prob 4 (10 points):
+Score += 10
+
+Prob 5 (10 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 20/50 = 40.0%
+
+
+Comments:
+	Push the video files, email me, and I will regrade it
+
+-------------------------------------------------------------------------------
+
+09/30/22 13:12
+
+Prob 1 (5 points):
+Score += 5
+
+Prob 2 (5 points):
+Score += 5
+
+Prob 3 (15 points):
+Needs legend
+Score += 14
+
+Prob 4 (10 points):
+Score += 10
+
+Prob 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
